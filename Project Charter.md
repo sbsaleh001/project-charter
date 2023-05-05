@@ -123,7 +123,7 @@ To mitigate this risk, the team will develop a comprehensive financial plan and 
 To mitigate this risk, the team will implement rigorous quality control processes and procedures throughout the development and deployment process. The team will also use techniques such as code reviews, bias testing, and user training to minimize the impact of human factors.
 
 
-![Alt text](A2 - Risk.png)
+![Likelyhood/impact](A2 - Risk.png)
 
 
 # Risk Evaluation Chart
